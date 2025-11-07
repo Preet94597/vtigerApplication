@@ -12,7 +12,8 @@ public class ReadDataFromCmdLine_Test {
 	{
 		
 		System.out.println("---- print ----");
-		
+		System.out.println("---- print2 ----");
+
 		
 		
 		String URL = System.getProperty("url");
